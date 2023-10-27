@@ -196,7 +196,7 @@ hr{
 }
 .image-home{
     display: grid;
-    grid-template-columns:auto auto  ;
+    grid-template-columns:auto ;
    
    
     /* border: 1px solid black; */
@@ -208,7 +208,7 @@ hr{
 .image1{
     grid-column: 1/2;
     grid-row: 1/3;
-    width: 700px;
+    /* width: 700px; */
     height: 420px;
     border-radius: 10px;
     
@@ -377,7 +377,7 @@ hr{
 }
 .TOP-BODY{
     /* border: 1px solid black; */
-    width: 350px;
+    width: 250px;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
@@ -385,7 +385,7 @@ hr{
 }
 .topPostBig
 {   border: 1px solid black;
-    width: 350px;
+    width: 250px;
     height: 400px;
     margin: 0px;
 }
@@ -428,7 +428,7 @@ hr{
     width: 450px;
     align-items: flex-start;
     margin-top: 8px;
-    font-size: 10px;
+    font-size: 6px;
     gap: 15px;
 }
 .content2 p{
